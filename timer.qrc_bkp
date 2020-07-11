@@ -1,7 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-	<file>images/outline_pause_black_18dp.png</file>
-        <file>images/outline_settings_backup_restore_black_18dp.png</file>
-        <file>images/round_stop_black_18dp.png</file>
-    </qresource>
-</RCC>
